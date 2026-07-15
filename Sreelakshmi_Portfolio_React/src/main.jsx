@@ -492,7 +492,7 @@ function App() {
 
 
                     <a
-                        href="https://linkedin.com/in/sreelakshshmi-a-69100b296"
+                        href="https://linkedin.com/in/sreelakshmi-a-69100b296/"
                         target="_blank"
                         rel="noreferrer"
                     >
