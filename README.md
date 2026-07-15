@@ -1,4 +1,5 @@
-<p style="font-size: 32px; font-weight: bold;">this is my portfolio</p>
+<h1>This is my portfolio</h1>
+
 
 
 url- https://sreelakshmi-portfolio-eight.vercel.app
